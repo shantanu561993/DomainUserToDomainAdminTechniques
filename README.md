@@ -19,5 +19,7 @@ Techniques that can be used to get from domain user to domain admin
 17. GPO Misconfigurations GROUPER 
 18. If laps is not installed and u have hash of local admin (non rid-500) find systems to which u can PTH ..https://github.com/shantanu561993/Remote-Access-Policy-Enumeration
 19. Exploit the MS14-068 
+20. mitm6 +ntlmrelayx https://blog.fox-it.com/2018/01/11/mitm6-compromising-ipv4-networks-via-ipv6/
+
 
 ## Help Me add more
