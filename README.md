@@ -20,6 +20,9 @@ Techniques that can be used to get from domain user to domain admin
 17. If laps is not installed and u have hash of local admin (non rid-500) find systems to which u can PTH ..https://github.com/shantanu561993/Remote-Access-Policy-Enumeration
 18. Exploit the MS14-068 
 19. mitm6 +ntlmrelayx https://blog.fox-it.com/2018/01/11/mitm6-compromising-ipv4-networks-via-ipv6/
+20. Delegation Allowed Accounts - Can be only used if already compromised an account which is trusted for delegation . Tool https://github.com/machosec/Mystique , Video - https://www.youtube.com/watch?v=Y2Wh2e6eZVc&list=PLH15HpR5qRsWx4qw9ZlgmisHOcKG4ZcRS&index=12 from 21:00 
+
+
 
 
 ## Help Me add more
