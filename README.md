@@ -22,7 +22,7 @@ Techniques that can be used to get from domain user to domain admin
 19. mitm6 +ntlmrelayx https://blog.fox-it.com/2018/01/11/mitm6-compromising-ipv4-networks-via-ipv6/
 20. Delegation Allowed Accounts - Can be only used if already compromised an account which is trusted for delegation . Tool https://github.com/machosec/Mystique , Video - https://www.youtube.com/watch?v=Y2Wh2e6eZVc&list=PLH15HpR5qRsWx4qw9ZlgmisHOcKG4ZcRS&index=12 from 21:00 
 
-
+21. Get Printer LDAP Accounts as they hasve access to shared folders https://www.defcon.org/images/defcon-19/dc-19-presentations/Heiland/DEFCON-19-Heiland-Printer-To-Pwnd.pdf 
 
 
 ## Help Me add more
