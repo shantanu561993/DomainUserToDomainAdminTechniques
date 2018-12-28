@@ -24,5 +24,5 @@ Techniques that can be used to get from domain user to domain admin
 
 21. Get Printer LDAP Accounts as they hasve access to shared folders https://www.defcon.org/images/defcon-19/dc-19-presentations/Heiland/DEFCON-19-Heiland-Printer-To-Pwnd.pdf 
 
-
+22. Email Takeover for exchange 2013 and 2010 https://github.com/WyAtu/CVE-2018-8581/
 ## Help Me add more
