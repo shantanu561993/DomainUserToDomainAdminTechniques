@@ -14,7 +14,7 @@ Techniques that can be used to get from domain user to domain admin
 11. PowerWebShot 
 12. Invoke-ShareFinder / Invoke-FileFinder
 13. SCCM Matt Nelson exploit to remove SCCM client and wait for the SCCM hash.
-14. PXE boot environment - TFTP module also look at https://blog.netspi.com/attacks-against-windows-pxe-boot-images/#Scraping 
+14. PXE boot environment - TFTP module also look at https://blog.netspi.com/attacks-against-windows-pxe-boot-images/#Scraping  https://twitter.com/swiftonsecurity/status/963443960743186432 https://github.com/shantanu561993/Toolkit/blob/master/DHCPInfo.py
 15. Get-ACL on SysVOL
 16. GPO Misconfigurations GROUPER 
 17. If laps is not installed and u have hash of local admin (non rid-500) find systems to which u can PTH ..https://github.com/shantanu561993/Remote-Access-Policy-Enumeration
