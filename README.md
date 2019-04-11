@@ -26,4 +26,5 @@ Techniques that can be used to get from domain user to domain admin
 
 22. Email Takeover for exchange 2013 and 2010 https://github.com/WyAtu/CVE-2018-8581/
 23 PrivExchange 
+24 Death metal coalfire labs exploiting intel amt feature
 ## Help Me add more
